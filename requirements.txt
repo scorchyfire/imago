@@ -1,7 +1,7 @@
 attrdict
 flask
 gevent
-mistune==2.0.3
+mistune==3.2.1
 pillow
 Psycopg2
 pygments
